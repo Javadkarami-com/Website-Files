@@ -1,0 +1,715 @@
+{
+  "pages": [
+    {
+      "name": "داشبورد تجزیه و تحلیل",
+      "icon": "bx-home-circle",
+      "url": "index.html"
+    },
+    {
+      "name": "داشبورد تجارت الکترونیک",
+      "icon": "bx-home-circle",
+      "url": "dashboards-ecommerce.html"
+    },
+    {
+      "name": "طرح با منو",
+      "icon": "bx-layout",
+      "url": "layouts-without-menu.html"
+    },
+    {
+      "name": "طرح شناور",
+      "icon": "bx-layout",
+      "url": "layouts-fluid.html"
+    },
+    {
+      "name": "طرح دربرگیرنده",
+      "icon": "bx-layout",
+      "url": "layouts-container.html"
+    },
+    {
+      "name": "طرح خالی",
+      "icon": "bx-layout",
+      "url": "layouts-blank.html"
+    },
+    {
+      "name": "ایمیل",
+      "icon": "bx-envelope",
+      "url": "app-email.html"
+    },
+    {
+      "name": "گفتگو",
+      "icon": "bx-chat",
+      "url": "app-chat.html"
+    },
+    {
+      "name": "تقویم",
+      "icon": "bx-calendar",
+      "url": "app-calendar.html"
+    },
+    {
+      "name": "تخته وظایف",
+      "icon": "bx-grid",
+      "url": "app-kanban.html"
+    },
+    {
+      "name": "لیست کاربران",
+      "icon": "bx-list-ol",
+      "url": "app-user-list.html"
+    },
+    {
+      "name": "نمایش کاربر - حساب",
+      "icon": "bx-user",
+      "url": "app-user-view-account.html"
+    },
+    {
+      "name": "نمایش کاربر - امنیت",
+      "icon": "bx-shield",
+      "url": "app-user-view-security.html"
+    },
+    {
+      "name": "نمایش کاربر - پرداخت و پلن ها",
+      "icon": "bx-file",
+      "url": "app-user-view-billing.html"
+    },
+    {
+      "name": "نمایش کاربر - اعلان ها",
+      "icon": "bx-notification",
+      "url": "app-user-view-notifications.html"
+    },
+    {
+      "name": "نمایش کاربر - اتصالات",
+      "icon": "bxl-google",
+      "url": "app-user-view-connections.html"
+    },
+    {
+      "name": "نقش ها",
+      "icon": "bx-shield-quarter",
+      "url": "app-access-roles.html"
+    },
+    {
+      "name": "مجوز ها",
+      "icon": "bx-block",
+      "url": "app-access-permission.html"
+    },
+    {
+      "name": "لیست صورتحساب ها",
+      "icon": "bx-list-ol",
+      "url": "app-invoice-list.html"
+    },
+    {
+      "name": "پیش نمایش صورتحساب",
+      "icon": "bx-file",
+      "url": "app-invoice-preview.html"
+    },
+    {
+      "name": "ویرایش صورتحساب",
+      "icon": "bx-pencil",
+      "url": "app-invoice-edit.html"
+    },
+    {
+      "name": "افزودن صورتحساب",
+      "icon": "bx-user-plus",
+      "url": "app-invoice-add.html"
+    },
+    {
+      "name": "پروفایل کاربر",
+      "icon": "bx-user-circle",
+      "url": "pages-profile-user.html"
+    },
+    {
+      "name": "پروفایل کاربر - تیم ها",
+      "icon": "bx-group",
+      "url": "pages-profile-teams.html"
+    },
+    {
+      "name": "پروفایل کاربر - پروژه ها",
+      "icon": "bx-grid-alt",
+      "url": "pages-profile-projects.html"
+    },
+    {
+      "name": "پروفایل کاربر - اتصالات",
+      "icon": "bx-link-alt",
+      "url": "pages-profile-connections.html"
+    },
+    {
+      "name": "تنظیمات حساب - حساب",
+      "icon": "bx-user",
+      "url": "pages-account-settings-account.html"
+    },
+    {
+      "name": "تنظیمات حساب - امنیت",
+      "icon": "bx-shield",
+      "url": "pages-account-settings-security.html"
+    },
+    {
+      "name": "تنظیمات حساب - پرداخت و پلن ها",
+      "icon": "bx-file",
+      "url": "pages-account-settings-billing.html"
+    },
+    {
+      "name": "تنظیمات حساب - اعلان ها",
+      "icon": "bx-notification",
+      "url": "pages-account-settings-notifications.html"
+    },
+    {
+      "name": "تنظیمات حساب - اتصالات",
+      "icon": "bxl-google",
+      "url": "pages-account-settings-connections.html"
+    },
+    {
+      "name": "سوالات متداول",
+      "icon": "bx-help-circle",
+      "url": "pages-faq.html"
+    },
+    {
+      "name": "مرکز راهنمایی - صفحه فرود",
+      "icon": "bx-help-circle",
+      "url": "pages-help-center-landing.html"
+    },
+    {
+      "name": "مرکز راهنمایی - دسته‌بندی‌ها",
+      "icon": "bx-help-circle",
+      "url": "pages-help-center-categories.html"
+    },
+    {
+      "name": "مرکز راهنمایی - مقالات",
+      "icon": "bx-help-circle",
+      "url": "pages-help-center-article.html"
+    },
+    {
+      "name": "قیمت گذاری",
+      "icon": "bx-file",
+      "url": "pages-pricing.html"
+    },
+    {
+      "name": "خطا",
+      "icon": "bx-error-circle",
+      "url": "pages-misc-error.html"
+    },
+    {
+      "name": "در دست تعمیر",
+      "icon": "bx-first-aid",
+      "url": "pages-misc-under-maintenance.html"
+    },
+    {
+      "name": "به زودی",
+      "icon": "bx-time",
+      "url": "pages-misc-comingsoon.html"
+    },
+    {
+      "name": "غیر مجاز",
+      "icon": "bx-user-x",
+      "url": "pages-misc-not-authorized.html"
+    },
+    {
+      "name": "ورود پایه",
+      "icon": "bx-log-in",
+      "url": "auth-login-basic.html"
+    },
+    {
+      "name": "ورود کاور",
+      "icon": "bx-log-in",
+      "url": "auth-login-cover.html"
+    },
+    {
+      "name": "ثبت نام پایه",
+      "icon": "bx-user-plus",
+      "url": "auth-register-basic.html"
+    },
+    {
+      "name": "ثبت نام کاور",
+      "icon": "bx-user-plus",
+      "url": "auth-register-cover.html"
+    },
+    {
+      "name": "ثبت نام چند مرحله‌ای",
+      "icon": "bx-user-plus",
+      "url": "auth-register-multisteps.html"
+    },
+    {
+      "name": "تایید ایمیل پایه",
+      "icon": "bx-envelope",
+      "url": "auth-verify-email-basic.html"
+    },
+    {
+      "name": "تایید ایمیل کاور",
+      "icon": "bx-envelope",
+      "url": "auth-verify-email-cover.html"
+    },
+    {
+      "name": "بازنشانی رمز عبور پایه",
+      "icon": "bx-help-circle",
+      "url": "auth-reset-password-basic.html"
+    },
+    {
+      "name": "بازنشانی رمز عبور کاور",
+      "icon": "bx-help-circle",
+      "url": "auth-reset-password-cover.html"
+    },
+    {
+      "name": "فراموشی رمز عبور پایه",
+      "icon": "bx-question-mark",
+      "url": "auth-forgot-password-basic.html"
+    },
+    {
+      "name": "فراموشی رمز عبور کاور",
+      "icon": "bx-question-mark",
+      "url": "auth-forgot-password-cover.html"
+    },
+    {
+      "name": "تایید دو مرحله‌ای پایه",
+      "icon": "bx-question-mark",
+      "url": "auth-two-steps-basic.html"
+    },
+    {
+      "name": "تایید دو مرحله‌ای کاور",
+      "icon": "bx-question-mark",
+      "url": "auth-two-steps-cover.html"
+    },
+    {
+      "name": "نمونه های مودال",
+      "icon": "bx-window-open",
+      "url": "modal-examples.html"
+    },
+    {
+      "name": "پرداخت چند مرحله‌ای",
+      "icon": "bx-cart",
+      "url": "wizard-ex-checkout.html"
+    },
+    {
+      "name": "لیست املاک چند مرحله‌ای",
+      "icon": "bx-building-house",
+      "url": "wizard-ex-property-listing.html"
+    },
+    {
+      "name": "ایجاد معامله چند مرحله‌ای",
+      "icon": "bx-gift",
+      "url": "wizard-ex-create-deal.html"
+    },
+    {
+      "name": "آیکن های Boxicons",
+      "icon": "bx-box",
+      "url": "icons-boxicons.html"
+    },
+    {
+      "name": "آیکن های FontAwesome",
+      "icon": "bx-font",
+      "url": "icons-font-awesome.html"
+    },
+    {
+      "name": "کارت های پایه",
+      "icon": "bx-credit-card-front",
+      "url": "cards-basic.html"
+    },
+    {
+      "name": "کارت های پیشرفته",
+      "icon": "bx-id-card",
+      "url": "cards-advance.html"
+    },
+    {
+      "name": "کارت های وضعیت",
+      "icon": "bx-bar-chart",
+      "url": "cards-statistics.html"
+    },
+    {
+      "name": "کارت های تجزیه و تحلیل",
+      "icon": "bx-bar-chart",
+      "url": "cards-analytics.html"
+    },
+    {
+      "name": "کارت های دارای عمل",
+      "icon": "bx-mouse-alt",
+      "url": "cards-actions.html"
+    },
+    {
+      "name": "باز و بسته شونده",
+      "icon": "bx-collapse",
+      "url": "ui-accordion.html"
+    },
+    {
+      "name": "هشدار ها",
+      "icon": "bx-error",
+      "url": "ui-alerts.html"
+    },
+    {
+      "name": "نشان ها",
+      "icon": "bx-badge",
+      "url": "ui-badges.html"
+    },
+    {
+      "name": "دکمه ها",
+      "icon": "bx-plus-circle",
+      "url": "ui-buttons.html"
+    },
+    {
+      "name": "گردونه",
+      "icon": "bx-image",
+      "url": "ui-carousel.html"
+    },
+    {
+      "name": "جمع شونده",
+      "icon": "bx-collapse",
+      "url": "ui-collapse.html"
+    },
+    {
+      "name": "منوهای کشویی",
+      "icon": "bx-archive-in",
+      "url": "ui-dropdowns.html"
+    },
+    {
+      "name": "فوتر",
+      "icon": "bx-dock-bottom",
+      "url": "ui-footer.html"
+    },
+    {
+      "name": "گروه های لیست",
+      "icon": "bx-list-ol",
+      "url": "ui-list-groups.html"
+    },
+    {
+      "name": "مودال ها",
+      "icon": "bx-layout",
+      "url": "ui-modals.html"
+    },
+    {
+      "name": "نوار ناوبری",
+      "icon": "bx-dock-top",
+      "url": "ui-navbar.html"
+    },
+    {
+      "name": "خارج از کادر",
+      "icon": "bx-layout",
+      "url": "ui-offcanvas.html"
+    },
+    {
+      "name": "صفحه‌بندی و مسیر راهنما",
+      "icon": "bx-chevrons-right",
+      "url": "ui-pagination-breadcrumbs.html"
+    },
+    {
+      "name": "پیشرفت",
+      "icon": "bx-slider",
+      "url": "ui-progress.html"
+    },
+    {
+      "name": "چرخنده ها",
+      "icon": "bx-loader-circle",
+      "url": "ui-spinners.html"
+    },
+    {
+      "name": "تب ها و سربرگ ها",
+      "icon": "bx-server",
+      "url": "ui-tabs-pills.html"
+    },
+    {
+      "name": "اعلان های Toast",
+      "icon": "bx-message-alt-dots",
+      "url": "ui-toasts.html"
+    },
+    {
+      "name": "تولتیپ ها و پاپ اور ها",
+      "icon": "bx-message-alt-dots",
+      "url": "ui-tooltips-popovers.html"
+    },
+    {
+      "name": "تایپوگرافی",
+      "icon": "bx-font",
+      "url": "ui-typography.html"
+    },
+    {
+      "name": "آواتار",
+      "icon": "bx-user-circle",
+      "url": "extended-ui-avatar.html"
+    },
+    {
+      "name": "رابط کاربری بلوک",
+      "icon": "bx-fullscreen",
+      "url": "extended-ui-blockui.html"
+    },
+    {
+      "name": "کشیدن و رها کردن",
+      "icon": "bx-copy-alt",
+      "url": "extended-ui-drag-and-drop.html"
+    },
+    {
+      "name": "پخش کننده رسانه",
+      "icon": "bx-music",
+      "url": "extended-ui-media-player.html"
+    },
+    {
+      "name": "نوار اسکرول Perfect",
+      "icon": "bx-move-vertical",
+      "url": "extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "name": "امتیازدهی ستاره ای",
+      "icon": "bx-star",
+      "url": "extended-ui-star-ratings.html"
+    },
+    {
+      "name": "هشدارهای SweetAlert2",
+      "icon": "bx-error",
+      "url": "extended-ui-sweetalert2.html"
+    },
+    {
+      "name": "جداکننده متن",
+      "icon": "bx-vertical-center",
+      "url": "extended-ui-text-divider.html"
+    },
+    {
+      "name": "خط زمانی پایه",
+      "icon": "bx-move-horizontal",
+      "url": "extended-ui-timeline-basic.html"
+    },
+    {
+      "name": "خط زمانی تمام صفحه",
+      "icon": "bx-move-horizontal",
+      "url": "extended-ui-timeline-fullscreen.html"
+    },
+    {
+      "name": "تور",
+      "icon": "bx-paper-plane",
+      "url": "extended-ui-tour.html"
+    },
+    {
+      "name": "نمای درختی",
+      "icon": "bx-git-repo-forked bx-rotate-180",
+      "url": "extended-ui-treeview.html"
+    },
+    {
+      "name": "متفرقه",
+      "icon": "bx-sitemap",
+      "url": "extended-ui-misc.html"
+    },
+    {
+      "name": "ورودی های پایه",
+      "icon": "bx-receipt",
+      "url": "forms-basic-inputs.html"
+    },
+    {
+      "name": "گروه های ورودی",
+      "icon": "bx-book-content",
+      "url": "forms-input-groups.html"
+    },
+    {
+      "name": "گزینه های سفارشی",
+      "icon": "bx-circle",
+      "url": "forms-custom-options.html"
+    },
+    {
+      "name": "ویرایشگرها",
+      "icon": "bx-select-multiple",
+      "url": "forms-editors.html"
+    },
+    {
+      "name": "ارسال فایل",
+      "icon": "bx-toggle-left",
+      "url": "forms-file-upload.html"
+    },
+    {
+      "name": "انتخابگرها",
+      "icon": "bx-edit",
+      "url": "forms-pickers.html"
+    },
+    {
+      "name": "انتخاب و برچسب ها",
+      "icon": "bx-upload",
+      "url": "forms-selects.html"
+    },
+    {
+      "name": "اسلایدرها",
+      "icon": "bx-plus",
+      "url": "forms-sliders.html"
+    },
+    {
+      "name": "سوئیچ ها",
+      "icon": "bx-slider-alt",
+      "url": "forms-switches.html"
+    },
+    {
+      "name": "موارد بیشتر",
+      "icon": "bx-plus-circle",
+      "url": "forms-extras.html"
+    },
+    {
+      "name": "فرم عمودی",
+      "icon": "bx-file",
+      "url": "form-layouts-vertical.html"
+    },
+    {
+      "name": "فرم افقی",
+      "icon": "bx-file",
+      "url": "form-layouts-horizontal.html"
+    },
+    {
+      "name": "عمل های چسبان",
+      "icon": "bx-file",
+      "url": "form-layouts-sticky.html"
+    },
+    {
+      "name": "چند مرحله‌ای شماره دار",
+      "icon": "bx-dots-horizontal-rounded",
+      "url": "form-wizard-numbered.html"
+    },
+    {
+      "name": "چند مرحله‌ای با آیکن",
+      "icon": "bx-dots-horizontal-rounded",
+      "url": "form-wizard-icons.html"
+    },
+    {
+      "name": "اعتبارسنجی فرم",
+      "icon": "bx-check",
+      "url": "form-validation.html"
+    },
+    {
+      "name": "جدول ها",
+      "icon": "bx-table",
+      "url": "tables-basic.html"
+    },
+    {
+      "name": "جدول های داده پایه",
+      "icon": "bx-table",
+      "url": "tables-datatables-basic.html"
+    },
+    {
+      "name": "جدول های داده پیشرفته",
+      "icon": "bx-table",
+      "url": "tables-datatables-advanced.html"
+    },
+    {
+      "name": "افزونه های جدول های داده",
+      "icon": "bx-table",
+      "url": "tables-datatables-extensions.html"
+    },
+    {
+      "name": "نمودارهای Apex",
+      "icon": "bx-line-chart",
+      "url": "charts-apex.html"
+    },
+    {
+      "name": "نمودارهای ChartJS",
+      "icon": "bx-bar-chart",
+      "url": "charts-chartjs.html"
+    },
+    {
+      "name": "نقشه های Leaflet",
+      "icon": "bx-ma-alt",
+      "url": "maps-leaflet.html"
+    }
+  ],
+  "files": [
+    {
+      "name": "جزوه کلاس",
+      "subtitle": "توسط تونی استارک",
+      "src": "img/icons/misc/search-xls.png",
+      "meta": "17kb",
+      "url": "javascript:;"
+    },
+    {
+      "name": "تصویر پاسپورت",
+      "subtitle": "توسط پیتر پارکر",
+      "src": "img/icons/misc/search-jpg.png",
+      "meta": "35kb",
+      "url": "app-file-manager.html"
+    },
+    {
+      "name": "یادداشت های کلاس",
+      "subtitle": "توسط لورل لنس",
+      "src": "img/icons/misc/search-doc.png",
+      "meta": "153kb",
+      "url": "app-file-manager.html"
+    },
+    {
+      "name": "گیرنده",
+      "subtitle": "توسط استیو راجرز",
+      "src": "img/icons/misc/search-jpg.png",
+      "meta": "25kb",
+      "url": "app-file-manager.html"
+    },
+    {
+      "name": "راهنمای اجتماعی",
+      "subtitle": "توسط اولیور کوئین",
+      "src": "img/icons/misc/search-doc.png",
+      "meta": "39kb",
+      "url": "app-file-manager.html"
+    },
+    {
+      "name": "مخارج",
+      "subtitle": "توسط اسلید ویلسون",
+      "src": "img/icons/misc/search-xls.png",
+      "meta": "15kb",
+      "url": "app-file-manager.html"
+    },
+    {
+      "name": "مستندات",
+      "subtitle": "توسط اولیور کوئین",
+      "src": "img/icons/misc/search-doc.png",
+      "meta": "200kb",
+      "url": "app-file-manager.html"
+    },
+    {
+      "name": "آواتار",
+      "subtitle": "توسط ایلان ماسک",
+      "src": "img/icons/misc/search-jpg.png",
+      "meta": "100kb",
+      "url": "app-file-manager.html"
+    },
+    {
+      "name": "اطلاعات",
+      "subtitle": "توسط بیل گیتس",
+      "src": "img/icons/misc/search-xls.png",
+      "meta": "5kb",
+      "url": "app-file-manager.html"
+    },
+    {
+      "name": "راهنمای باغبانی",
+      "subtitle": "توسط امیلیا کلارک",
+      "src": "img/icons/misc/search-doc.png",
+      "meta": "25kb",
+      "url": "app-file-manager.html"
+    }
+  ],
+  "members": [
+    {
+      "name": "جان اسنو",
+      "subtitle": "مدیر",
+      "src": "img/avatars/1.png",
+      "url": "app-user-view-account.html"
+    },
+    {
+      "name": "تونی استارک",
+      "subtitle": "مشتری",
+      "src": "img/avatars/2.png",
+      "url": "app-user-view-account.html"
+    },
+    {
+      "name": "استیو جابز",
+      "subtitle": "کارمند",
+      "src": "img/avatars/5.png",
+      "url": "app-user-view-account.html"
+    },
+    {
+      "name": "پیتر پارکر",
+      "subtitle": "کارمند",
+      "src": "img/avatars/7.png",
+      "url": "app-user-view-account.html"
+    },
+    {
+      "name": "ایلان ماسک",
+      "subtitle": "مشتری",
+      "src": "img/avatars/3.png",
+      "url": "app-user-view-account.html"
+    },
+    {
+      "name": "دیوید بکهام",
+      "subtitle": "مدیر",
+      "src": "img/avatars/10.png",
+      "url": "app-user-view-account.html"
+    },
+    {
+      "name": "اولیور کوئین",
+      "subtitle": "مدیر",
+      "src": "img/avatars/12.png",
+      "url": "app-user-view-account.html"
+    }
+  ]
+}

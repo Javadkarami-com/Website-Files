@@ -1,0 +1,127 @@
+[
+  {
+    "id": "board-in-progress",
+    "title": "در حال پیشرفت",
+    "item": [
+      {
+        "id": "in-progress-1",
+        "title": "تحقیق در رابطه با صفحه سوالات متداول",
+        "comments": "12",
+        "badge-text": "تجربه کاربر",
+        "badge": "success",
+        "due-date": "1401/03/05",
+        "attachments": "4",
+        "assigned": [
+          "12.png",
+          "5.png"
+        ],
+        "members": [
+          "بروس",
+          "کلارک"
+        ]
+      },
+      {
+        "id": "in-progress-2",
+        "title": "بازبینی کد جاوا اسکریپت",
+        "comments": "8",
+        "badge-text": "بازبینی کد",
+        "badge": "danger",
+        "attachments": "2",
+        "due-date": "1401/03/10",
+        "assigned": [
+          "3.png",
+          "8.png"
+        ],
+        "members": [
+          "هلنا",
+          "آیریس"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "board-in-review",
+    "title": "در حال بررسی",
+    "item": [
+      {
+        "id": "in-review-1",
+        "title": "بازبینی برنامه‌های تمام شده",
+        "comments": "17",
+        "badge-text": "اطلاعات",
+        "badge": "info",
+        "due-date": "1401/04/08",
+        "attachments": "8",
+        "assigned": [
+          "11.png",
+          "6.png"
+        ],
+        "members": [
+          "لورل",
+          "هارلی"
+        ]
+      },
+      {
+        "id": "in-review-2",
+        "title": "یافتن تصاویر جدید برای صفحات",
+        "comments": "18",
+        "badge-text": "تصاویر",
+        "image": "11.jpg",
+        "badge": "warning",
+        "due-date": "1401/05/02",
+        "attachments": "10",
+        "assigned": [
+          "9.png",
+          "2.png",
+          "3.png",
+          "12.png"
+        ],
+        "members": [
+          "جردن",
+          "دایانا",
+          "وینی",
+          "لاریسا"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "board-done",
+    "title": "انجام شده",
+    "item": [
+      {
+        "id": "done-1",
+        "title": "قسمت فرم‌ها و جدول‌ها",
+        "comments": "4",
+        "badge-text": "برنامه",
+        "badge": "secondary",
+        "due-date": "1401/03/07",
+        "attachments": "1",
+        "assigned": [
+          "2.png",
+          "9.png",
+          "10.png"
+        ],
+        "members": [
+          "کارا",
+          "نیسا",
+          "دارسی"
+        ]
+      },
+      {
+        "id": "done-2",
+        "title": "آماده سازی نمودارها و نقشه‌ها",
+        "comments": "21",
+        "badge-text": "نمودارها و نقشه‌ها",
+        "badge": "primary",
+        "due-date": "1401/04/07",
+        "attachments": "6",
+        "assigned": [
+          "1.png"
+        ],
+        "members": [
+          "سارا"
+        ]
+      }
+    ]
+  }
+]
