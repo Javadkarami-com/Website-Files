@@ -1,0 +1,31 @@
+/*------- Scroll Bar -------*/
+/* css scroll vottom */
+.bottom-scrollbar {
+  background-color: #fff;
+  height: calc(100% - 20px);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  min-height: 4px;
+  max-height: 7px;
+  width: 100vw;
+}
+
+.bottom-scrollbar #scrollBar {
+  background-color: #1acc8d;
+  content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0 ;
+  box-shadow: #1acc8d 0px 0px 7px ;
+}
+/* End scroll bar */
+
+@media (max-width: 574px) {
+  .resupName {
+    display: none;
+  }
+}
