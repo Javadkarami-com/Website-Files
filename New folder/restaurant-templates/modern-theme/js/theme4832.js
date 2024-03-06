@@ -41,6 +41,14 @@
         $('.overlay').removeClass('active');
         $('body').removeClass('noscroll');
     });
+    $('#content').on('click', function (e) {
+        e.preventDefault();
+        $('.menu-category').removeClass("active");
+        $('#sidebarleft').removeClass('active');
+        $('#content').removeClass('lowopacity');
+        $('.overlay').removeClass('active');
+        $('body').removeClass('noscroll');
+    });
     $('.menu-category').first().trigger('click');
 
 
